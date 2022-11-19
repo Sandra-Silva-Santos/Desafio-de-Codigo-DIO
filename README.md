@@ -3,8 +3,6 @@
 <h3 align="center"> Desafio de Código DIO - Bootcamp JavaScript Game Developer 2022</h3><br>
 
 
-<center>
-
 [A idade de Magali](Fundamentos%20Aritméticos%20em%20JavaScript/A%20idade%20de%20Magali.js)
 
 [Aumento de Salário](Fundamentos%20Aritméticos%20em%20JavaScript/Aumento%20de%20Salário.js)
@@ -49,7 +47,18 @@
 
 [Cálculo Salarial](Resolvendo%20Algoritmos%20com%20JavaScript/Cálculo%20Salarial.js)
 
+[Contagem de Cédulas](Resolvendo%20Algoritmos%20com%20JavaScript/Contagem%20de%20Cédulas.js)
 
+[Distância](Solução%20de%20Problemas%20com%20JavaScript/Distância.js)
 
+[Fases da Lua](Solução%20de%20Problemas%20com%20JavaScript/Fases%20da%20Lua.js)
 
-</center>
+[Fibonacci Fácil](Solução%20de%20Problemas%20com%20JavaScript/Fibonacci%20Fácil.js)
+
+[Fuso Horário](Solução%20de%20Problemas%20com%20JavaScript/Fuso%20Horário.js)
+
+[Há muito, Muito Tempo Atrás](Solução%20de%20Problemas%20com%20JavaScript/Há%20Muito,%20Muito%20Tempo%20Atrás.js)
+
+[Jogadores Viciados](Solução%20de%20Problemas%20com%20JavaScript/Jogadores%20Viciados.js)
+
+[Pedra, Papel, Tesoura, Lagarto e Spock](Solução%20de%20Problemas%20com%20JavaScript/Pedra,%20Papel,%20Tesoura,%20Lagarto%20e%20Spock.js)
