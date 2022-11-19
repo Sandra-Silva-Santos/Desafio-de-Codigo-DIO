@@ -31,33 +31,25 @@
 
 [Visita na Feira](Introdução%20a%20Programação%20com%20JavaScript/Visita%20na%20Feira.js)
 
+[Compras no Supermercado](Ordenação%20e%20Filtros%20em%20JavaScript/Compras%20no%20Supermercado.js)
 
+[Distância Entre Dois Pontos](Ordenação%20e%20Filtros%20em%20JavaScript/Distância%20Entre%20Dois%20Pontos.js)
 
+[Entrada e Saída Lendo e Pulando Nomes](Ordenação%20e%20Filtros%20em%20JavaScript/Entrada%20e%20Saída%20Lendo%20e%20Pulando%20Nomes.js)
 
+[Ordenando números Pares e Ímpares](Ordenação%20e%20Filtros%20em%20JavaScript/Ordenando%20Números%20Pares%20e%20Ímpares.js)
 
+[Pink e Cérebro](Ordenação%20e%20Filtros%20em%20JavaScript/Pink%20e%20Cérebro.js)
 
+[A Corrida de Tartarugas](Resolvendo%20Algoritmos%20com%20JavaScript/A%20Corrida%20de%20Tartarugas.js)
 
+[Aproveite a Oferta](Resolvendo%20Algoritmos%20com%20JavaScript/Aproveite%20a%20Oferta.js)
+
+[As Abas de Péricles](Resolvendo%20Algoritmos%20com%20JavaScript/As%20Abas%20de%20Péricles.js)
+
+[Cálculo Salarial](Resolvendo%20Algoritmos%20com%20JavaScript/Cálculo%20Salarial.js)
 
 
 
 
 </center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
