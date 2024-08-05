@@ -62,3 +62,13 @@
 [Jogadores Viciados](Solução%20de%20Problemas%20com%20JavaScript/Jogadores%20Viciados.js)
 
 [Pedra, Papel, Tesoura, Lagarto e Spock](Solução%20de%20Problemas%20com%20JavaScript/Pedra,%20Papel,%20Tesoura,%20Lagarto%20e%20Spock.js)
+
+
+
+<h1 align="center">Coding The Future Claro - Java com Spring Boot</h1>
+
+<h3 align="center"> Desafio de Código DIO - Coding The Future Claro - Java com Spring Boot</h3><br>
+
+[Verificacao Servico Combo](https://github.com/Sandra-Silva-Santos/Desafio-de-Codigo-DIO/tree/main/Coding%20The%20Future%20Claro%20-%20Java%20com%20Spring%20Boot/Verificacao%20Servico%20Combo)
+
+[Verificacao Servico Telefonia](https://github.com/Sandra-Silva-Santos/Desafio-de-Codigo-DIO/tree/main/Coding%20The%20Future%20Claro%20-%20Java%20com%20Spring%20Boot/Verificacao%20Servico%20Telefonia)
